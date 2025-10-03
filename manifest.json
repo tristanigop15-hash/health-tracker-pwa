@@ -1,5 +1,5 @@
 {
-  "name": "Health Tracker",
+  "name": "Health Tracker in PCEHS",
   "short_name": "HealthTracker",
   "start_url": "index.html",
   "display": "standalone",
